@@ -1,4 +1,4 @@
-# how_to_prepare_a_talk
+# How to prepare a talk
 Worflow and resources to prepare talks
 
 ## Plan, make, develop for presentations
